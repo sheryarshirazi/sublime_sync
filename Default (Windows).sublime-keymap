@@ -1,0 +1,3 @@
+[
+	{"keys": ["ctrl+;"], "command": "run_macro_file", "args": {"file": "Packages/User/macros/EOL-semiColon.sublime-macro"} },
+]
