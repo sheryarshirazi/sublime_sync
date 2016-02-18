@@ -1,7 +1,7 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Mac Classic (SL).tmTheme",
-	"default_line_ending": "unix",
-	"font_size": 16,
+	"default_line_ending": "system",
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
