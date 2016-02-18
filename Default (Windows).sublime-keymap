@@ -1,5 +1,6 @@
 [
 	{"keys": ["ctrl+;"], "command": "run_macro_file", "args": {"file": "Packages/User/macros/EOL-semiColon.sublime-macro"} },
     { "keys": ["ctrl+up"], "command": "select_lines", "args": {"forward": false} },
-    { "keys": ["ctrl+down"], "command": "select_lines", "args": {"forward": true} }
+    { "keys": ["ctrl+down"], "command": "select_lines", "args": {"forward": true} },
+    { "keys": ["ctrl+r"], "command": "side_bar_open_in_browser", "path": {"type": "testing"} }
 ]
