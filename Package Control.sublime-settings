@@ -13,11 +13,14 @@
 		"Emmet",
 		"Gist",
 		"GoToClass",
+		"JavaScript Completions",
+		"Laravel Blade Highlighter",
 		"Package Control",
 		"ReadmePlease",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"Theme - Flatland"
 	]
