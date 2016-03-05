@@ -1,15 +1,18 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Mac Classic (SL).tmTheme",
-	"theme": "Flatland Dark.sublime-theme",
-	"font_size": 13,
-	"move_to_limit_on_up_down": true,
-	"scroll_past_end": true,
+	"color_scheme": "Packages/User/SublimeLinter/Eiffel (SL).tmTheme",
 	"default_line_ending": "unix",
-	"show_line_endings": true,
-	"trim_trailing_white_space_on_save": true,
-	"tab_completion": true,
+	"font_size": 13,
 	"ignored_packages":
 	[
+		"Aprosopo",
+		"Theme - Aprosopo",
 		"Vintage"
-	]
+	],
+	"move_to_limit_on_up_down": true,
+	"scroll_past_end": true,
+	"show_line_endings": true,
+	"tab_completion": true,
+	"theme": "Default.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
 }
