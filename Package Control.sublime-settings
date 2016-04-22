@@ -5,10 +5,15 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"42 Headers",
 		"Alignment",
 		"All Autocomplete",
+		"AngularJS",
+		"Apple Pips Color Scheme",
 		"AutoFileName",
+		"Blue Zen Color Scheme",
+		"Color Scheme - Creamy",
 		"DocBlockr",
 		"EditorConfig",
 		"EditorConfigSnippets",
@@ -16,14 +21,18 @@
 		"Gist",
 		"GoToClass",
 		"JavaScript Completions",
+		"KeyboardSelection",
 		"Laravel 4 Snippets",
 		"Laravel Blade Highlighter",
 		"Package Control",
+		"PHP Completions Kit",
+		"php-snippets",
 		"ReadmePlease",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeLinter-php"
+		"SublimeLinter-php",
+		"Theme - Soda"
 	]
 }
