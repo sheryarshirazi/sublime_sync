@@ -1,18 +1,23 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Blue Zen (SL).tmTheme",
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Dark-Material (SL).tmTheme",
 	"default_line_ending": "unix",
-	"font_size": 13,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Aprosopo",
 		"Theme - Aprosopo",
 		"Vintage"
 	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"move_to_limit_on_up_down": true,
+	"overlay_scroll_bars": "enabled",
 	"scroll_past_end": true,
 	"show_line_endings": true,
 	"tab_completion": true,
-	"theme": "Soda Light 3.sublime-theme",
+	"theme": "Dark-Material.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "false"
 }

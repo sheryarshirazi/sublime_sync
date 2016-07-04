@@ -22,8 +22,6 @@
 		"GoToClass",
 		"JavaScript Completions",
 		"KeyboardSelection",
-		"Laravel 4 Snippets",
-		"Laravel Blade Highlighter",
 		"Package Control",
 		"PHP Completions Kit",
 		"php-snippets",
@@ -33,6 +31,7 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
+		"Theme - Dark Material",
 		"Theme - Soda"
 	]
 }
