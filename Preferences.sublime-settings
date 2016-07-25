@@ -1,23 +1,30 @@
 {
 	"always_show_minimap_viewport": true,
+	"aprosopo_active_bar": true,
+	"aprosopo_dirty_bar": true,
+	"aprosopo_light_blue": true,
+	"aprosopo_light_dirty_aqua": true,
+	"aprosopo_show_tab_close_buttons": true,
+	"aprosopo_sidebar_font_large": true,
+	"aprosopo_sidebar_tree_xlarge": true,
+	"aprosopo_solid_tab": true,
+	"aprosopo_statusbar_font_large": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Dark-Material (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Aprosopo/Tomorrow-Morning.tmTheme",
 	"default_line_ending": "unix",
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"Aprosopo",
-		"Theme - Aprosopo",
 		"Vintage"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"move_to_limit_on_up_down": true,
-	"overlay_scroll_bars": "enabled",
+	"overlay_scroll_bars": "system",
 	"scroll_past_end": true,
 	"show_line_endings": true,
 	"tab_completion": true,
-	"theme": "Dark-Material.sublime-theme",
+	"theme": "Aprosopo Light@st3.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "false"
 }

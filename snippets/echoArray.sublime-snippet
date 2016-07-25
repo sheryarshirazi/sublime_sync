@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-echo '<pre>', print_r(${1:array}), '</pre>'; die('end array');
+echo '<pre>', print_r(${1:array},true), '</pre>'; die('end array');
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>eArray</tabTrigger>

@@ -5,15 +5,10 @@
 	],
 	"installed_packages":
 	[
-		"1337 Color Scheme",
-		"42 Headers",
 		"Alignment",
 		"All Autocomplete",
 		"AngularJS",
-		"Apple Pips Color Scheme",
 		"AutoFileName",
-		"Blue Zen Color Scheme",
-		"Color Scheme - Creamy",
 		"DocBlockr",
 		"EditorConfig",
 		"EditorConfigSnippets",
@@ -31,7 +26,6 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
-		"Theme - Dark Material",
-		"Theme - Soda"
+		"Theme - Aprosopo"
 	]
 }
