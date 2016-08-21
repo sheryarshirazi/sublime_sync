@@ -5,27 +5,25 @@
 	],
 	"installed_packages":
 	[
-		"Alignment",
+		"Package Control",
+		"SideBarEnhancements",
 		"All Autocomplete",
-		"AngularJS",
+		"GoToClass",
+		"Alignment",
 		"AutoFileName",
-		"DocBlockr",
 		"EditorConfig",
 		"EditorConfigSnippets",
-		"Emmet",
-		"Gist",
-		"GoToClass",
-		"JavaScript Completions",
 		"KeyboardSelection",
-		"Package Control",
+		"DocBlockr",
+		"Emmet",
+		"AngularJS",
+		"JavaScript Completions",
 		"PHP Completions Kit",
 		"php-snippets",
 		"ReadmePlease",
-		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeLinter-php",
-		"Theme - Aprosopo"
+		"SublimeLinter-php"
 	]
 }
